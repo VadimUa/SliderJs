@@ -1,0 +1,16 @@
+.slider{
+	display:flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+.left{
+	width:300px;
+}
+.right{
+	width:300px;
+}
+.slider{
+	height:550px;
+	background-color: #d7d7d7;
+}
